@@ -1,1 +1,6 @@
 
+Use AWS machine(32GB RAM) to run the test with more users
+Install Java & Jmeter
+Increase Heap memory size in Jmeter>bin>jmeter.sh file or Jmeter windows bath file
+Run the test in Non-GUI mode
+Before running the test disable all listeners(View results tree, etc)
